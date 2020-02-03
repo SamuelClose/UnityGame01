@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d0d0b57e70e74cc8a120c3a15c5ce58, type: 3}
+  m_Name: Player1GameData
+  m_EditorClassIdentifier: 
+  playerName: Artorias
+  sprite: {fileID: 0}
+  playerHealth: 5
+  playerStamina: 10
+  playerHeight: 5
+  playerCrouch: 2
+  playerSpeed: 0
+  playerJumpMax: 0
+  playerJumpCount: 0

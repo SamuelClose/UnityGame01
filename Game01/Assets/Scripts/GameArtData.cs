@@ -6,8 +6,9 @@ public class GameArtData : ScriptableObject
 {
     public string playerName;
     public Sprite sprite;
-    public float playerHealth;
-    public float playerStamina;
+    public float playerHealth, playerStamina, playerHeight, playerCrouch, playerSpeed, playerJumpMax, playerJumpCount;
+    
+    
     
    
     void Start()

@@ -7,6 +7,8 @@
         <e p="Scripts" t="Include">
           <e p="ConsoleCheck.cs" t="Include" />
           <e p="GameArtData.cs" t="Include" />
+          <e p="PlayerMovement.cs" t="Include" />
+          <e p="PLayerStats.cs" t="Include" />
         </e>
       </e>
       <e p="Game01.sln" t="IncludeFlat" />
